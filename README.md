@@ -1,0 +1,2 @@
+# Argos
+uma plataforma de FinOps com IA. O nome vem do gigante de cem olhos da mitologia grega que nunca dorme: observa tudo e alerta.Empresas que usam AWS gastam bastante com nuvem e não sabem explicar a fatura. Quando alguém percebe um pico de custo, ele já aconteceu: um recurso esquecido, um job em loop, um NAT Gateway com tráfego inesperado. Os relatórios nativos mostram o que foi gasto, mas não dizem o que mudou, por quê, nem o que fazer.
