@@ -1,0 +1,5 @@
+# Somente desenvolvimento local. Nunca use este valor em produção.
+argos:
+  security:
+    jwt:
+      secret: dev-only-secret-argos-local-0123456789-abcdefghijklmnopqrstuvwxyz
